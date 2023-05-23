@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\bin\Debug\PayrollGUI02.exe.config
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\bin\Debug\PayrollGUI02.exe
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\bin\Debug\PayrollGUI02.pdb
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.frmPayrollGUI02.resources
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.exe
+C:\Users\jpscott\Desktop\Payroll\PayrollProjects\PayrollGUI02\obj\Debug\PayrollGUI02.pdb
