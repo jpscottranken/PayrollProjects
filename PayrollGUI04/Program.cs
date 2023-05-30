@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PayrollGUI03
+namespace PayrollGUI04
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace PayrollGUI03
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPayrollGUI03());
+            Application.Run(new frmPayrollGUI04());
         }
     }
 }

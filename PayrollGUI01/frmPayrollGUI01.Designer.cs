@@ -1,6 +1,6 @@
 ﻿namespace PayrollGUI01
 {
-    partial class frmPayroll01
+    partial class frmPayrollGUI01
     {
         /// <summary>
         /// Required designer variable.

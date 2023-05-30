@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace PayrollGUI03
 {
-    public partial class Form1 : Form
+    public partial class frmPayrollGUI03 : Form
     {
-        public Form1()
+        public frmPayrollGUI03()
         {
             InitializeComponent();
         }

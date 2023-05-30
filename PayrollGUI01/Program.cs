@@ -16,7 +16,7 @@ namespace PayrollGUI01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPayroll01());
+            Application.Run(new frmPayrollGUI01());
         }
     }
 }

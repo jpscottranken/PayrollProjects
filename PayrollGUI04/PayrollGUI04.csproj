@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C6EEA10-7851-4E17-85A7-1DEA0F1C4360}</ProjectGuid>
+    <ProjectGuid>{052C916F-E7B6-4826-89EF-2085690756AF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PayrollGUI01</RootNamespace>
-    <AssemblyName>PayrollGUI01</AssemblyName>
+    <RootNamespace>PayrollGUI04</RootNamespace>
+    <AssemblyName>PayrollGUI04</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmPayrollGUI01.cs">
+    <Compile Include="frmPayrollGUI04.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPayrollGUI01.Designer.cs">
-      <DependentUpon>frmPayrollGUI01.cs</DependentUpon>
+    <Compile Include="frmPayrollGUI04.Designer.cs">
+      <DependentUpon>frmPayrollGUI04.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmPayrollGUI01.resx">
-      <DependentUpon>frmPayrollGUI01.cs</DependentUpon>
+    <EmbeddedResource Include="frmPayrollGUI04.resx">
+      <DependentUpon>frmPayrollGUI04.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

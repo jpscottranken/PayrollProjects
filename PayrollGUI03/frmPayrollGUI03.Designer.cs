@@ -1,6 +1,6 @@
 ﻿namespace PayrollGUI03
 {
-    partial class Form1
+    partial class frmPayrollGUI03
     {
         /// <summary>
         /// Required designer variable.
@@ -291,7 +291,7 @@
             this.exitMenuItem.Text = "Exit";
             this.exitMenuItem.Click += new System.EventHandler(this.exitMenuItem_Click);
             // 
-            // Form1
+            // frmPayrollGUI03
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -318,8 +318,8 @@
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmPayrollGUI03";
+            this.Text = "C# GUI Payroll Program";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
