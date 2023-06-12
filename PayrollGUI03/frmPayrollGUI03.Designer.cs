@@ -241,7 +241,7 @@
             this.btnClear.TabIndex = 24;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = true;
-            this.btnClear.Click += new System.EventHandler(this.btnCalculate_Click_1);
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             this.btnClear.MouseEnter += new System.EventHandler(this.btn_MouseEnter);
             this.btnClear.MouseLeave += new System.EventHandler(this.btn_MouseLeave);
             // 

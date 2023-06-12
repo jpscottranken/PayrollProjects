@@ -67,6 +67,7 @@ namespace PayrollGUI03
             txtHourlyRate.Text   = "";
             txtGrossPay.Text     = "";
             txtFirstName.Focus();
+            btnCalculate.Enabled = true;
         }
 
         private void btnCalculate_Click_1(object sender, EventArgs e)
@@ -252,6 +253,7 @@ namespace PayrollGUI03
             }
 
             txtGrossPay.Text = grossPay.ToString("c");
+            btnCalculate.Enabled = false;
         }
 
         private void UpdateAccumulators()
@@ -287,6 +289,11 @@ namespace PayrollGUI03
             //btnExit.ForeColor = Color.White;
             //btnCalculate.ForeColor = Color.White;
             //btnClear.ForeColor = Color.White;
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            ClearAll();
         }
     }
 }

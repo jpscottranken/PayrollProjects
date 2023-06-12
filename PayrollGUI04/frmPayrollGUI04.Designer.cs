@@ -75,7 +75,7 @@
             // txtTotalGrossPays
             // 
             this.txtTotalGrossPays.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTotalGrossPays.Location = new System.Drawing.Point(1016, 156);
+            this.txtTotalGrossPays.Location = new System.Drawing.Point(1019, 168);
             this.txtTotalGrossPays.Name = "txtTotalGrossPays";
             this.txtTotalGrossPays.ReadOnly = true;
             this.txtTotalGrossPays.Size = new System.Drawing.Size(311, 44);
@@ -85,7 +85,7 @@
             // txtTotalGrossPayAmt
             // 
             this.txtTotalGrossPayAmt.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTotalGrossPayAmt.Location = new System.Drawing.Point(1016, 215);
+            this.txtTotalGrossPayAmt.Location = new System.Drawing.Point(1019, 227);
             this.txtTotalGrossPayAmt.Name = "txtTotalGrossPayAmt";
             this.txtTotalGrossPayAmt.ReadOnly = true;
             this.txtTotalGrossPayAmt.Size = new System.Drawing.Size(311, 44);
@@ -95,7 +95,7 @@
             // txtAvgGrossPayAmt
             // 
             this.txtAvgGrossPayAmt.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAvgGrossPayAmt.Location = new System.Drawing.Point(1016, 284);
+            this.txtAvgGrossPayAmt.Location = new System.Drawing.Point(1019, 296);
             this.txtAvgGrossPayAmt.Name = "txtAvgGrossPayAmt";
             this.txtAvgGrossPayAmt.ReadOnly = true;
             this.txtAvgGrossPayAmt.Size = new System.Drawing.Size(311, 44);
@@ -107,7 +107,7 @@
             this.lblAvgGrossPayAmt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblAvgGrossPayAmt.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAvgGrossPayAmt.ForeColor = System.Drawing.Color.White;
-            this.lblAvgGrossPayAmt.Location = new System.Drawing.Point(711, 286);
+            this.lblAvgGrossPayAmt.Location = new System.Drawing.Point(714, 298);
             this.lblAvgGrossPayAmt.Name = "lblAvgGrossPayAmt";
             this.lblAvgGrossPayAmt.Size = new System.Drawing.Size(290, 38);
             this.lblAvgGrossPayAmt.TabIndex = 57;
@@ -119,7 +119,7 @@
             this.lblTotalGrossPayAmt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblTotalGrossPayAmt.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTotalGrossPayAmt.ForeColor = System.Drawing.Color.White;
-            this.lblTotalGrossPayAmt.Location = new System.Drawing.Point(711, 220);
+            this.lblTotalGrossPayAmt.Location = new System.Drawing.Point(714, 232);
             this.lblTotalGrossPayAmt.Name = "lblTotalGrossPayAmt";
             this.lblTotalGrossPayAmt.Size = new System.Drawing.Size(290, 38);
             this.lblTotalGrossPayAmt.TabIndex = 56;
@@ -131,7 +131,7 @@
             this.lblTotalGrossPays.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblTotalGrossPays.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTotalGrossPays.ForeColor = System.Drawing.Color.White;
-            this.lblTotalGrossPays.Location = new System.Drawing.Point(711, 158);
+            this.lblTotalGrossPays.Location = new System.Drawing.Point(714, 170);
             this.lblTotalGrossPays.Name = "lblTotalGrossPays";
             this.lblTotalGrossPays.Size = new System.Drawing.Size(290, 38);
             this.lblTotalGrossPays.TabIndex = 55;
@@ -141,7 +141,7 @@
             // txtLastName
             // 
             this.txtLastName.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtLastName.Location = new System.Drawing.Point(366, 99);
+            this.txtLastName.Location = new System.Drawing.Point(369, 108);
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(329, 44);
             this.txtLastName.TabIndex = 1;
@@ -151,7 +151,7 @@
             // txtHoursWorked
             // 
             this.txtHoursWorked.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtHoursWorked.Location = new System.Drawing.Point(366, 158);
+            this.txtHoursWorked.Location = new System.Drawing.Point(369, 170);
             this.txtHoursWorked.Name = "txtHoursWorked";
             this.txtHoursWorked.Size = new System.Drawing.Size(329, 44);
             this.txtHoursWorked.TabIndex = 2;
@@ -161,7 +161,7 @@
             // txtHourlyRate
             // 
             this.txtHourlyRate.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtHourlyRate.Location = new System.Drawing.Point(366, 227);
+            this.txtHourlyRate.Location = new System.Drawing.Point(369, 239);
             this.txtHourlyRate.Name = "txtHourlyRate";
             this.txtHourlyRate.Size = new System.Drawing.Size(329, 44);
             this.txtHourlyRate.TabIndex = 3;
@@ -171,7 +171,7 @@
             // txtGrossPay
             // 
             this.txtGrossPay.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGrossPay.Location = new System.Drawing.Point(366, 292);
+            this.txtGrossPay.Location = new System.Drawing.Point(369, 304);
             this.txtGrossPay.Name = "txtGrossPay";
             this.txtGrossPay.ReadOnly = true;
             this.txtGrossPay.Size = new System.Drawing.Size(329, 44);
@@ -181,7 +181,7 @@
             // txtFirstName
             // 
             this.txtFirstName.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFirstName.Location = new System.Drawing.Point(366, 40);
+            this.txtFirstName.Location = new System.Drawing.Point(369, 45);
             this.txtFirstName.Name = "txtFirstName";
             this.txtFirstName.Size = new System.Drawing.Size(329, 44);
             this.txtFirstName.TabIndex = 0;
@@ -193,7 +193,7 @@
             this.lblGrossPay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblGrossPay.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblGrossPay.ForeColor = System.Drawing.Color.White;
-            this.lblGrossPay.Location = new System.Drawing.Point(62, 295);
+            this.lblGrossPay.Location = new System.Drawing.Point(65, 307);
             this.lblGrossPay.Name = "lblGrossPay";
             this.lblGrossPay.Size = new System.Drawing.Size(290, 38);
             this.lblGrossPay.TabIndex = 15;
@@ -205,7 +205,7 @@
             this.lblHourlyRate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblHourlyRate.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHourlyRate.ForeColor = System.Drawing.Color.White;
-            this.lblHourlyRate.Location = new System.Drawing.Point(62, 227);
+            this.lblHourlyRate.Location = new System.Drawing.Point(65, 239);
             this.lblHourlyRate.Name = "lblHourlyRate";
             this.lblHourlyRate.Size = new System.Drawing.Size(290, 38);
             this.lblHourlyRate.TabIndex = 14;
@@ -217,7 +217,7 @@
             this.lblHoursWorked.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblHoursWorked.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHoursWorked.ForeColor = System.Drawing.Color.White;
-            this.lblHoursWorked.Location = new System.Drawing.Point(62, 161);
+            this.lblHoursWorked.Location = new System.Drawing.Point(65, 173);
             this.lblHoursWorked.Name = "lblHoursWorked";
             this.lblHoursWorked.Size = new System.Drawing.Size(290, 38);
             this.lblHoursWorked.TabIndex = 13;
@@ -229,9 +229,9 @@
             this.lblLastName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblLastName.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLastName.ForeColor = System.Drawing.Color.White;
-            this.lblLastName.Location = new System.Drawing.Point(62, 99);
+            this.lblLastName.Location = new System.Drawing.Point(65, 108);
             this.lblLastName.Name = "lblLastName";
-            this.lblLastName.Size = new System.Drawing.Size(290, 38);
+            this.lblLastName.Size = new System.Drawing.Size(288, 38);
             this.lblLastName.TabIndex = 12;
             this.lblLastName.Text = "Last Name:";
             this.lblLastName.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -241,7 +241,7 @@
             this.lblFirstName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.lblFirstName.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblFirstName.ForeColor = System.Drawing.Color.White;
-            this.lblFirstName.Location = new System.Drawing.Point(62, 40);
+            this.lblFirstName.Location = new System.Drawing.Point(65, 45);
             this.lblFirstName.Name = "lblFirstName";
             this.lblFirstName.Size = new System.Drawing.Size(290, 38);
             this.lblFirstName.TabIndex = 11;
